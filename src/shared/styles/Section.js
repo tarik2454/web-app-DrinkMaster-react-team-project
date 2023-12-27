@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const StyledSection = styled.section`
+  overflow-x: hidden;
   position: relative;
   width: 100%;
   margin: 0px;
@@ -15,6 +16,7 @@ export const StyledSection = styled.section`
 
 export const OverlayBottom = styled.div`
   display: none;
+
   @media screen and (min-width: 768px) {
     position: absolute;
     display: block;
