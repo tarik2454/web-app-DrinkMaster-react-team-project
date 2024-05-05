@@ -124,7 +124,7 @@
 - **Ігор Золотоверх:** Скрам-мастер/Розробник
   - [GitHub](https://github.com/IhorZolot)
   - [LinkedIn](www.linkedin.com/in/ihor-zolotoverkh)
-- **Олег Андрійчук:** Розробник/опора команди
+- **Олег Андрійчук:** Розробник
   - [GitHub](https://github.com/OAndrijchuk)
   - [LinkedIn](https://www.linkedin.com/in/oleh-andrijchuk/)
 - **Ольга Лазаренко:** Розробник
